@@ -4,4 +4,4 @@ NPM     : 2106750686
 
 Kelas   : C
 
-Hobi    : Ngegame
+Hobi    : Tidur
